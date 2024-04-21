@@ -1,9 +1,7 @@
--- Even Fibonacci Numbers
--- https://projecteuler.net/problem=2
-
 module Test where
 
 -- Upper Bond Limit Fibbonaci Number
+limit :: Int
 limit = 4_000_000
 
 -- Fibonacci Recursive Function Definition

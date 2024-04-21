@@ -1,4 +1,4 @@
--- Largest Prime Factor
+-- Even Fibonacci Numbers
 -- https://projecteuler.net/problem=2
 
 module Solution where
